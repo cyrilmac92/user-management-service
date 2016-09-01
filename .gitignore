@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+.mvn/
+mvnw
+mvnw.cmd
+usermanagementservice.iml
