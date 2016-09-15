@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: sripag
+Build-Jdk: 1.8.0_91
+Implementation-Title: user-management-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mg.ums
+Implementation-Vendor: Pivotal Software, Inc.
+Created-By: Maven Integration for Eclipse
+
